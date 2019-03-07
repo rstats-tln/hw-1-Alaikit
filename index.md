@@ -1,7 +1,7 @@
 Homework 1: ggplot2
 ================
-Your Name
-2019-03-04
+Dmitri Pismennõi
+2019-03-07
 
 ``` r
 library(ggplot2)
